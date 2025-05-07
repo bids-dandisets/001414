@@ -14,9 +14,9 @@ assetsSummary:
 citation: Vittani, Marta; Hirase, Hajime; Herlo, Rasmus; Wang, Xiaowen; Christensen,
   Michala Daniela ; Vo, Camilla Trang; Mishima, Tsuneko; Kusk, Peter; Konno, Ayumu;
   Hirai, Hirokazu; Tsuboi, Takashi; Kitaguchi, Tetsuya; Kjaerby, Celia; Asiminas,
-  Antonis; Nedergaard, Maiken (2025) Cerebral Blood Flow is Modulated by Astrocytic
-  cAMP Elevation Independently from IP3- Mediated Ca2+ Signaling in Mice (Version
-  draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001414/draft
+  Antonis; Nedergaard, Maiken; Sakamoto, Masayuki (2025) Cerebral Blood Flow is Modulated
+  by Astrocytic cAMP Elevation Independently of IP3R2-Mediated Ca2+ Signaling in Mice
+  (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001414/draft
 contributor:
 - affiliation: []
   email: yzhaoinuw@gmail.com
@@ -102,26 +102,27 @@ contributor:
   roleName:
   - dcite:Researcher
   schemaKey: Person
+- {}
+- includeInCitation: true
+  name: Sakamoto, Masayuki
+  schemaKey: Person
 dateCreated: '2025-04-14T14:45:02.029407+00:00'
 description: Dataset accompanying the paper "Cerebral Blood Flow is Modulated by Astrocytic
-  cAMP Elevation Independently from IP3- Mediated Ca2+ Signaling in Mice" by Vittani
+  cAMP Elevation Independently of IP3R2-Mediated Ca2+ Signaling in Mice" by Vittani
   et al., 2024
 ethicsApproval: []
 id: DANDI:001414/draft
 identifier: DANDI:001414
-keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001414/versions/draft/assets/
 name: Cerebral Blood Flow is Modulated by Astrocytic cAMP Elevation Independently
-  from IP3- Mediated Ca2+ Signaling in Mice
-protocol: []
+  of IP3R2-Mediated Ca2+ Signaling in Mice
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.9
-studyTarget: []
 url: https://dandiarchive.org/dandiset/001414/draft
 version: draft
 wasGeneratedBy: []
