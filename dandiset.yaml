@@ -38,18 +38,11 @@ assetsSummary:
   - ProcessingModule
 citation: Vittani, Marta; Hirase, Hajime; Herlo, Rasmus; Wang, Xiaowen; Christensen,
   Michala Daniela ; Vo, Camilla Trang; Mishima, Tsuneko; Kusk, Peter; Konno, Ayumu;
-  Hirai, Hirokazu; Tsuboi, Takashi; Kitaguchi, Tetsuya; Kjaerby, Celia; Asiminas,
-  Antonis; Nedergaard, Maiken; Sakamoto, Masayuki (2025) Cerebral Blood Flow is Modulated
-  by Astrocytic cAMP Elevation Independently of IP3R2-Mediated Ca2+ Signaling in Mice
-  (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001414/draft
+  Tsuboi, Takashi; Hirai, Hirokazu; Kitaguchi, Tetsuya; Kjaerby, Celia; Asiminas,
+  Antonis; Sakamoto, Masayuki (2025) Cerebral Blood Flow is Modulated by Astrocytic
+  cAMP Elevation Independently of IP3R2-Mediated Ca2+ Signaling in Mice (Version draft)
+  [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001414/draft
 contributor:
-- affiliation: []
-  email: yzhaoinuw@gmail.com
-  includeInCitation: false
-  name: Zhao, Yue
-  roleName:
-  - dcite:ContactPerson
-  schemaKey: Person
 - email: marta.vittani@sund.ku.dk
   includeInCitation: true
   name: Vittani, Marta
@@ -98,12 +91,12 @@ contributor:
   - dcite:Researcher
   schemaKey: Person
 - includeInCitation: true
-  name: Hirai, Hirokazu
+  name: Tsuboi, Takashi
   roleName:
   - dcite:Researcher
   schemaKey: Person
 - includeInCitation: true
-  name: Tsuboi, Takashi
+  name: Hirai, Hirokazu
   roleName:
   - dcite:Researcher
   schemaKey: Person
@@ -123,12 +116,6 @@ contributor:
   - dcite:Researcher
   schemaKey: Person
 - includeInCitation: true
-  name: Nedergaard, Maiken
-  roleName:
-  - dcite:Researcher
-  schemaKey: Person
-- {}
-- includeInCitation: true
   name: Sakamoto, Masayuki
   schemaKey: Person
 dateCreated: '2025-04-14T14:45:02.029407+00:00'
@@ -138,6 +125,15 @@ description: Dataset accompanying the paper "Cerebral Blood Flow is Modulated by
 ethicsApproval: []
 id: DANDI:001414/draft
 identifier: DANDI:001414
+keywords:
+- Astrocytes
+- ' Neurovascular coupling'
+- Optogenetic GPCR
+- cAMP elevation
+- Blood flow
+- Cortex
+- Mouse
+- Optical imaging
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
